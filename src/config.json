@@ -1,0 +1,13 @@
+{
+    "connectionString": "mongodb://localhost:27017/notes-api",
+    "secret": "STRING",
+    "emailFrom": "info@node-mongo-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "marta.kovacek19@ethereal.email",
+            "pass": "n6AR8HZsEKSrzBFMqz"
+        }
+    }
+}
